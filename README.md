@@ -21,4 +21,13 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 4. Write a Report on the Neural Network Model
 
 ## Results 
+In this project, I ran 5 different models changing up the numbers and the amount of hidden layers each time. These models removed the EIN and NAME columns and with applying different neurons and layers and binning achieved an accuracy of 73%.
+
+<img width="753" alt="Screenshot 2024-07-31 at 2 33 05 PM" src="https://github.com/user-attachments/assets/63a8ff5f-a956-44a1-8f53-e8e1a9210725">
+
+As stated before, even my best model did not achieve the desired accuracy of 75%.
+<img width="503" alt="Screenshot 2024-07-31 at 2 35 09 PM" src="https://github.com/user-attachments/assets/5ea8b34c-73e1-4e35-ace1-aad039636c9d">
+
+
+
 
